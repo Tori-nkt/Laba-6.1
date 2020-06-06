@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Прога лаба 6.1 (фигуры)/1.0.0": {
+        "runtime": {
+          "Прога лаба 6.1 (фигуры).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Прога лаба 6.1 (фигуры)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
